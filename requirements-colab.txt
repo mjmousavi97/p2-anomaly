@@ -1,0 +1,7 @@
+# Core deep-learning libraries.
+# Pin compatible versions after checking the Colab GPU environment.
+torch
+torchvision
+
+# Testing.
+pytest
