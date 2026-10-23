@@ -1,7 +1,3 @@
-# Core deep-learning libraries.
-# Pin compatible versions after checking the Colab GPU environment.
-torch
-torchvision
-
-# Testing.
-pytest
+# Packages missing from Colab, pinned to exact versions.
+# Currently empty: Colab already provides everything M0 needs.
+# FastAPI and friends will be added in M5.
